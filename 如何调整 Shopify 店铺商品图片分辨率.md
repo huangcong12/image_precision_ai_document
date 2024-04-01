@@ -28,20 +28,20 @@
    ![提交任务](https://vip.helloimg.com/i/2024/04/01/660a7e92c10eb.png)
 
 4. 等待任务处理完成。
-   ![等待处理](https://vip.helloimg.com/i/2024/04/01/660a7e93ea22a.png)
+![image](https://github.com/huangcong12/image_precision_ai_document/assets/2867782/07da1c13-a2f6-4978-acbe-937ec9ea78bf)
 
 ### 检查结果
 
 您有多种方式可以检查结果：
 
 1. 直接在任务详情页点击图片，确认分辨率已经变为 1600。
-   ![检查详情页](https://vip.helloimg.com/i/2024/04/01/660a7ed849cbd.png)
+![image](https://github.com/huangcong12/image_precision_ai_document/assets/2867782/cb88124f-76e2-4ac1-ba4d-0d5110a1ca82)
 
 2. 回到“Product Image Repair”页面，查看图片的分辨率。
    ![检查页面](https://vip.helloimg.com/i/2024/04/01/660a7f91dc8c6.png)
 
 3. 前往店铺的商品详情页查看。
-   ![检查详情页](https://vip.helloimg.com/i/2024/04/01/660a7fda6df9e.png)
+ ![image](https://github.com/huangcong12/image_precision_ai_document/assets/2867782/2b810574-f700-44be-9525-f5e690713826)
 
 ### 总结
 
