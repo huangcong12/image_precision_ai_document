@@ -28,20 +28,23 @@ You have two methods to find images that need resolution adjustment:
    ![Submit Task](https://vip.helloimg.com/i/2024/04/01/660a7e92c10eb.png)
 
 4. Wait for the task to be processed.
-   ![Waiting for Processing](https://vip.helloimg.com/i/2024/04/01/660a7e93ea22a.png)
+![image](https://github.com/huangcong12/image_precision_ai_document/assets/2867782/07da1c13-a2f6-4978-acbe-937ec9ea78bf)
+
 
 ### Checking the Results
 
 You have several ways to check the results:
 
 1. Click on the image directly on the task details page to confirm that the resolution has changed to 1600.
-   ![Check Details Page](https://vip.helloimg.com/i/2024/04/01/660a7ed849cbd.png)
+![image](https://github.com/huangcong12/image_precision_ai_document/assets/2867782/cb88124f-76e2-4ac1-ba4d-0d5110a1ca82)
+
 
 2. Go back to the "Product Image Repair" page and check the resolution of the images.
    ![Check Page](https://vip.helloimg.com/i/2024/04/01/660a7f91dc8c6.png)
 
 3. Visit the product details page in your store to check.
-   ![Check Details Page](https://vip.helloimg.com/i/2024/04/01/660a7fda6df9e.png)
+ ![image](https://github.com/huangcong12/image_precision_ai_document/assets/2867782/2b810574-f700-44be-9525-f5e690713826)
+
 
 ### Conclusion
 
